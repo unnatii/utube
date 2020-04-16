@@ -13,7 +13,7 @@ class App extends Component {
             params:{
                 part: 'snippet',
                 maxResults: 8,
-                key:'AIzaSyBKjXr_SD56SF5w7cNTTrxjfS1Y7_WK-jI'
+                // key:'your api key here'
             }
         })
         this.setState({
